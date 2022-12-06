@@ -1,0 +1,10 @@
+.Container {
+  display: inline-table;
+  box-sizing: border-box;
+  margin: 0.5rem 0.5rem;
+  background-color: aqua;
+}
+.Card {
+  box-sizing: border-box;
+  max-width: 200px;
+}

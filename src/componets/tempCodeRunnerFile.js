@@ -1,0 +1,1 @@
+        this.increment = this.increment.bind(this)
